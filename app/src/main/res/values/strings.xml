@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleToDoApp</string>
+    <string name="title_activity_tab">SimpleToDoApp</string>
+    <string name="tab_text_1">ToDo</string>
+    <string name="tab_text_2">Done</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
